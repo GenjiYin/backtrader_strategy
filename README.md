@@ -22,11 +22,5 @@ pip install backtrader numpy pandas scipy matplotlib
 #### 实现步骤
 1. 寻找一对具有协整关系的证券资产;
 2. 根据历史记录作线性回归, 不妨设资产X与资产Y具备以下关系:
-$
-$
-x
-=
-1
-$
-$
+$$x=1$$
 4. d
