@@ -16,7 +16,7 @@ matplotlib (用于绘图)
 pip install backtrader numpy pandas scipy matplotlib
 ```
 ## 策略列表
-### 配对交易(pair-trading)
+### 1. 配对交易(pair-trading)
 #### 原理
 基于两个具有高度相关性的证券资产价格之间的价差。当价格偏离到一定程度时，买入被低估的股票并卖出被高估的股票，期望它们最终回归到长期均衡状态。
 #### 实现步骤
