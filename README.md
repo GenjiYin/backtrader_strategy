@@ -30,4 +30,5 @@ $\epsilon$调整相应的买卖信号, 在时间窗口内对残差项标准化, 
 
 #### 回测曲线
 ![曲线](figure/pairtrading.png)
-![曲线](figure/pairtrading_2.png)
+
+![曲线](figure/paritrading_2.png)
