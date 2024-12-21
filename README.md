@@ -26,4 +26,4 @@ pip install backtrader numpy pandas scipy matplotlib
 $$y=x\beta+\epsilon$$
 
 3. 根据残差项
-$\epsilon$调整相应的买卖信号, 在时间窗口内对残差项标准化, 当标准化值大于1则买入, 小于1则开空. 
+$\epsilon$调整相应的买卖信号, 在时间窗口内对残差项标准化, 当标准化值大于1则多X空Y, 小于-1则多Y空X. 代码做了适当调整, 当值大于1是买入X卖出Y, 小于-1则买入Y卖出X
