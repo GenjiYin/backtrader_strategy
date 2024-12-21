@@ -15,3 +15,5 @@ matplotlib (用于绘图)
 ```
 pip install backtrader numpy pandas scipy matplotlib
 ```
+## 策略列表
+### 配对交易(pair-trading)
