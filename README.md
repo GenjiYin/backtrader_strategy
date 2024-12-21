@@ -12,3 +12,6 @@ matplotlib (用于绘图)
 ## 安装指南
 确保Python已安装在你的系统上。
 使用pip安装所需的库：
+```
+pip install backtrader numpy pandas scipy matplotlib
+```
